@@ -10,20 +10,9 @@ Fredo Durand, and William T. Freeman, and published in the
 This code embodies patented algorithms and is provided
 for non-commercial research purposes only.
 
-You must contact the authors for permission to use the code
-commercially.
-
 See http://people.csail.mit.edu/mrub/evm/code/LICENSE.pdf
 for the license governing this code.
 
-By downloading and using this code, you are consenting to
-be bound by all terms of this software release agreement.
-
-Contact Neal Wadhwa at MIT dot EDU for the latest improvements.
-http://people.csail.mit.edu/nwadhwa/phase-video/
-http://people.csail.mit.edu/nwadhwa/riesz-pyramid/RieszPyr.pdf
-
-This implementation is based on work by Neal Wadhwa and the
-other authors above, and all rights are retained by them.
-
-(Any bugs or mistakes though are most likely mine.)
+You must contact the authors for permission to use the code
+commercially.  By downloading and using this code, you consent
+to be bound by all terms of this software release agreement.
