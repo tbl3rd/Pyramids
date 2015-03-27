@@ -32,7 +32,7 @@ INCLUDEPATH += $$CV2_INCLUDE
 LIBS += -L$$CV2_LIB
 LIBS += -lopencv_highgui -lopencv_core -lopencv_imgproc
 
-mac {
+macx {
     # QMAKE_MACOSX_DEPLOYMENT_TARGET = 10.6
     # ICON = applicaton-icon-file.icns
     plist.path = "$$DESTDIR/$$join(TARGET,,,.app)/Contents"

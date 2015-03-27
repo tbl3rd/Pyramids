@@ -27,5 +27,7 @@ commercially.  By downloading and using this code, you consent
 to be bound by all terms of this software release agreement.
 
 Contact Neal Wadhwa at MIT dot EDU for the latest improvements.
+
 http://people.csail.mit.edu/nwadhwa/phase-video/
+
 http://people.csail.mit.edu/nwadhwa/riesz-pyramid/RieszPyr.pdf
